@@ -1,0 +1,16 @@
+---
+title: Bachelor's degree
+subtitle: Anomaly detection in vehicle data with Long Short-Term Mamory networks
+layout: default
+modal-id: 0
+date: 2019-08-27
+img: thesis.jpg
+thumbnail: thesis.jpg
+alt: image-alt
+project-date: August 2019
+language: Python
+category: success
+description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et,usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description-2: Hallo
+
+---

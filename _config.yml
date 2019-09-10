@@ -1,0 +1,45 @@
+url: https://github.com/MarcFriz
+baseurl: 
+
+# Site settings
+title: Marc Friz
+email: marc.friz.g@gmail.com
+description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+
+
+# Team names, titles and social links
+people:
+- name: Marc Friz
+  pic: 5
+  position: Data Scientist und Software Developer
+  social:
+    - title: facebook
+      url: https://de-de.facebook.com/mc.fz.7
+    - title: xing
+      url: https://www.xing.com/profile/Marc_Friz
+    - title: linkedin
+      url: https://de.linkedin.com/in/marc-friz-3b3327172
+    - title: github
+      url: https://github.com/MarcFriz
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitch
+    url: https://www.twitch.tv/FrameAA
+  - title: facebook
+    url: https://de-de.facebook.com/mc.fz.7
+#  - title: stack-overflow
+#    url: http://stackoverflow.com/questions/tagged/jekyll
+#  - title: bitbucket
+#    url: http://bitbucket.org/jekyll
+  - title: github
+    url: https://github.com/MarcFriz
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: 3481 Melrose Place
+  - line: Beverly Hills, CA 90210
+
+# Build settings
+markdown: kramdown
+permalink: pretty
